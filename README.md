@@ -35,4 +35,5 @@
 -----------------------------
 
 ## **Contact**
-Email: rakhideysharma@beldacollege.ac.in
+![image](https://github.com/RakhiRDS/RakhiRDS.github.io/assets/171532751/b6f6f55a-fe5a-4a27-a9fd-ea68008efedb)
+
