@@ -6,6 +6,8 @@
 #### Department of Physiology
 #### Belda College, Paschim Midnapore
 
+------------------------------
+
 ## **Research Interests**
 **Molecular Virology:** Bacteriophage and viruses like Polio Virus, Hepatitis C Virus, Influenza Virus and Adeno Virus
 
@@ -18,6 +20,19 @@
 
 
 
+------------------------------
+## **Awards**
+
+
+
+
+
+-----------------------------
+
+## **Education and Experience**
+
+
+-----------------------------
 
 ## **Contact**
 Email: rakhideysharma@beldacollege.ac.in
