@@ -1,4 +1,4 @@
-# ** Rakhi Dey**
+# Rakhi Dey
 
 ![image](https://github.com/RakhiRDS/RakhiRDS.github.io/assets/171532751/c6650620-18c7-4ce9-82b7-93a703eba755)
 
