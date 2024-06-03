@@ -1,0 +1,7 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Rakhi's Homesite
+description: Personal Website of Rakhi Dey Sharma
+github:
+  is_project_page: false
