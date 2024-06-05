@@ -16,6 +16,8 @@ Ph.D. in Molecular Biology, Banaras Hindu University
 Post-Doctoral Research at UCLA, Los Angeles, CA, USA (2000-2002)
 Master's Degree, Physiology with Biochemistry Specialization, University of Calcutta
 Bachelor's Degree, Physiology (Hons), Vidyasagar University
+
+
 ------------------------------
 
 ## **Research Interests**
@@ -81,11 +83,6 @@ Research Interest: “Birth of new Exons in human genome”.
 Interest: Molecular basis of RNA virus life cycle and pathogenesis.
 
 •    Nov. 1998 - Feb. 2000: Research Associate, Indian Institute of Chemical Biology, Calcutta, INDIA.
-
-
------------------------------
-
-## **Education and Experience**
 
 
 -----------------------------
